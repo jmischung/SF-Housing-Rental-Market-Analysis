@@ -6,7 +6,7 @@ This analysis looks at the number of housing units, sale price per square foot, 
 
 This analysis leverages python 3.7 with the following packages:
 
-- [numpy]() - For numerical operations  
+- [numpy](https://numpy.org/) - For numerical operations  
 - [pandas](https://pandas.pydata.org/) - For analyzing and transforming data  
 - [pyviz](https://pyviz.org/) - For visualizing data 
 - [holoviews](http://holoviews.org/) - For creating interactive plots
