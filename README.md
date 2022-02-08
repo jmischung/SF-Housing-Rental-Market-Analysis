@@ -30,7 +30,7 @@ pip install jupyterlab
 
 Because the analysis leverages HoloViews the plots do not render when viewed from GitHub. To view the analysis and interact with the plots clone the repository and after ensuring all required packages have been installed run `jupyter lab` from the directory where the notebook is stored.
 
-For a snapshot of the analysis images of the plots have been provided. In bold above the plot image is the cell output that it is associated within `san_francisco_housing.ipynb`
+For a snapshot of the analysis images of the plots have been provided. In bold above the plot image is the cell output that the image is associated with in `san_francisco_housing.ipynb`
 
 **Out[4]:**
 ![San Francisco Housing Units](Images/sf_housing_units.png)  
